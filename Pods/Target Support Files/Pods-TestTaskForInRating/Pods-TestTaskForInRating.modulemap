@@ -1,0 +1,6 @@
+framework module Pods_TestTaskForInRating {
+  umbrella header "Pods-TestTaskForInRating-umbrella.h"
+
+  export *
+  module * { export * }
+}
